@@ -10,7 +10,7 @@ We help women on low income communities to thrive and become the leader of the f
 
 ## Learn how to create a new business
 
-```markdown
+
 Syntax highlighted code block
 
 
@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](Screenshot (13).png)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
