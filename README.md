@@ -3,6 +3,7 @@
 ![Image](Who.png)
 ## History
 On December 2019,people from different backgrounds of the Berlin Ecosystem, all dressed in Red, gathered to celebrate Christmass and decided to start a Business.
+
 ![Image](Dec2019.png)
 ## Events
 ### **MoreScience4Berlin**
