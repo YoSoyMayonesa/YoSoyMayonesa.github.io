@@ -5,13 +5,13 @@
 On December 2019,people from different backgrounds of the Berlin Ecosystem, all dressed in Red, gathered to celebrate Christmass and decided to start a Business.
 
 ## Events
-**MoreScience4Berlin**
+### **MoreScience4Berlin**
 Berlin used to generate and nurture Noble Prize Winner and fantastic Scientific Entrepreneurs. Cities around the world flourished impulsing Scientific Startups. Meanwhile, Berlin was becoming laggard on this trend. In 2020, Henry XXX a scientifc from Bayer, shared his dream with many others building an initiative that aims to transform the city and impulse the scientific population to thrive on the Startup Arena.
 ### 4CEOs
-**- Bayer:** *Stefan Oelrich*
-**- Campus Berlin Buch:** *Christina Quensel*
-**- Pfizer:** *Peter Albiez*
-**- Sanofi:** *Fabrizio Guidi*
+- **Bayer:** *Stefan Oelrich*
+- **Campus Berlin Buch:** *Christina Quensel*
+- **Pfizer:** *Peter Albiez*
+- **Sanofi:** *Fabrizio Guidi*
 ### Our friends and most valuable supporters:
 - Ada Health
 - Aldlershof
